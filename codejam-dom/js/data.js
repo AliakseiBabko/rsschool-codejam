@@ -1,0 +1,8 @@
+slides = [
+    "Picking and rejecting object properties<br><br>Sometimes we need to whitelist certain attributes from an object, say we’ve got an array representation of a database table and we need to select just a few fields for some function.",
+    "Array Hacks<br><br>Arrays are everywhere and with the new spread operators introduced in ECMAScript 6, you can do awesome things with them. In this post I will show you 3 useful tricks you can use when programming.",
+    "Immutable structures and cloning<br><br>Object cloning is a tricky, full of edge-cases, endeavor. The reason is simple enough. Objects maintain internal state, and that is much abused. There are countless techniques, or better phrased, countless derivations of the same technique.",
+    "Tapping for quick debugging<br><br>This little beastie here is tap. A really useful function for quick-debugging chains of function calls, anonymous functions and, actually, whatever you just want to print.",
+    "Adventurers Guide to React (Part I)<br><br>So you’ve heard of this React thing, and you actually peeked at the docs, maybe even went through some of the pages. Then you suddenly came across mysterious runes that spelled somewhat along the lines of Webpack",
+    "State to Props maps with memory<br><br>You’ve been building your React apps with a Redux store for quite a while, yet you feel awkward when your components update so often. You’ve crafted your state thoroughly, and your architecture is such that each component gets just what it needs from…"
+]
